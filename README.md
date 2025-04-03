@@ -39,18 +39,11 @@
 #### Cell Counting
 | Input Image | Output Image | Detected Cells |
 |-------------|--------------|----------------|
-| ![174cell.png](./data/cells/174cell.png) | ![174cell_processed.png](./results/cells_maximas/174cell_processed.png) | 94 |
-| ![164cell.png](./data/cells/164cell.png) | ![164cell_processed.png](./results/cells_maximas/164cell_processed.png) | 162 |
+| ![174cell.png](./data/cells/174cell.png) | ![174cell_processed.png](./results/cells_maximas/174cell.png) | 94 |
+| ![164cell.png](./data/cells/164cell.png) | ![164cell_processed.png](./results/cells_maximas/164cell.png) | 162 |
+| ![116cell.png](./data/cells/116cell.png) | ![174cell_processed.png](./results/cells_maximas/116cell.png) | 137 |
+| ![106cell.png](./data/cells/106cell.png) | ![164cell_processed.png](./results/cells_maximas/106cell.png) | 94 |
 
-- Processed 4 images from ./data/cells:
-  1. `174cell.png`: 
-     - Detected cells: 94
-  2. `164cell.png`: 
-     - Detected cells: 162
-  3. `116cell.png`: 
-     - Detected cells: 137
-  4. `106cell.png`: 
-     - Detected cells: 94
 - Discussion of challenges and improvements:
   - Illumination variations
   - Cell density effects
